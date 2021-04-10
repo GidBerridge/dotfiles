@@ -50,4 +50,5 @@
 [pull]
   rebase = false
 [user]
-	name = Gid Berridge gid.berridge
+	name = Gid Baerridge
+	email = gid.berridge@gmail.com
